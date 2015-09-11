@@ -1,0 +1,25 @@
+{
+  "name": "memory4u-website",
+  "version": "1.0.0",
+  "description": "official web site for memory4u",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunk-studio/memory4u-website.git"
+  },
+  "author": "kyle@trunk-studio.com",
+  "license": "Copyright",
+  "bugs": {
+    "url": "https://github.com/trunk-studio/memory4u-website/issues"
+  },
+  "homepage": "https://memory4u.tw",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.3",
+    "grunt-cli": "^0.1.13",
+    "html2jade": "^0.8.4"
+  }
+}
